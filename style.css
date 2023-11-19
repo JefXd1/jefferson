@@ -1,43 +1,42 @@
 /* style.css */
 body {
-    font-family: Arial, sans-serif;
-    background-color: #f2f2f2;
-  }
-  
-  header {
-    background-color: #333;
-    color: #fff;
-    padding: 20px;
-  }
+  font-family: Arial, sans-serif;
+  background-color: #f2f2f2;
+}
 
-  body {
-    background-image: url('path/to/your/jef2.jpg');
-    background-size: cover;
-  }
-  
-  nav ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-  }
-  
-  nav li {
-    display: inline-block;
-    margin-right: 10px;
-  }
-  
-  nav a {
-    color: #333;
-    text-decoration: none;
-  }
-  
-  section {
-    padding: 20px;
-  }
-  
-  footer {
-    background-color: #333;
-    color: #fff;
-    padding: 10px;
-    text-align: center;
-  }
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px;
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav li {
+  display: inline-block;
+  margin-right: 10px;
+}
+
+nav a {
+  color: #333;
+  text-decoration: none;
+}
+
+section {
+  padding: 20px;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  padding: 10px;
+  text-align: center;
+}
+.container {
+  background-image: url('path/to/your/image.jpg');
+  /* Additional styles for your container */
+}
